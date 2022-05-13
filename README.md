@@ -16,9 +16,9 @@ https://user-images.githubusercontent.com/11372210/168031755-bbe54f0b-ce11-40a4-
 
 ## Usage
 
-1. 死よしたい音源データをUnityにインポート
+1. 音源データをUnityにインポート
 2. `Assets\AudioVisualizerVFX\Scenes\main.unity`を開く
-3. bgmオブジェクトのAudio Sourceにインポートした音源データをAudioClipとしてアタッチ
+3. bgmオブジェクトに音源データをAudioClipとしてアタッチ
 
 ![img](./Docs/ss.png)
 
