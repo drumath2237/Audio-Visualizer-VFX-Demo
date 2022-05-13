@@ -16,12 +16,15 @@ https://user-images.githubusercontent.com/11372210/168031755-bbe54f0b-ce11-40a4-
 
 ## Usage
 
-`Assets\AudioVisualizerVFX\Scenes\main.unity`
-を開き、シーンを再生します。
+1. 死よしたい音源データをUnityにインポート
+2. `Assets\AudioVisualizerVFX\Scenes\main.unity`を開く
+3. bgmオブジェクトのAudio Sourceにインポートした音源データをAudioClipとしてアタッチ
+
+![img](./Docs/ss.png)
 
 ## Credits
 
-- 音楽：[Space Town (Brand New Mix) / Khaim](https://dova-s.jp/bgm/play4000.html)
+- サンプル使用音楽（リポジトリには含まれません）：[Space Town (Brand New Mix) / Khaim](https://dova-s.jp/bgm/play4000.html)
 - Metatex：[GitHub](https://github.com/keijiro/Metatex)
 
 ## Contact
